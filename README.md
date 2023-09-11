@@ -28,10 +28,11 @@ I'm a creative developer who loves to build web applications, explore new techno
 
 I work with various technologies and tools, including but not limited to:
 
-- HTML5 & CSS3: 💻
+- HTML5 & CSS: 💻
 - JavaScript & React: ⚛️
-- Node.js & Express.js: 🌐
-- SQL & MongoDB: 📊
+- JDBC & SQL : 🌐
+- JSP & Servlet: 📊
+- JAVA
 - Git & GitHub: 🐙
 
 
